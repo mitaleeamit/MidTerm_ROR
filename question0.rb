@@ -1,8 +1,8 @@
 # This function takes two integers, a and b, and calculates the sum of a and b, then returns the square of the sum.
 
  def check_squared_sum(a,b)
- sum=a.to_i+b.to_i
- sq=sum*sum
+  sum=a.to_i+b.to_i
+  sq=sum*sum
 end
 
 # This method takes in an array of integers, sorts it, then increments every element by 1, and returns it. It does not matter if this method is destructive or not.
